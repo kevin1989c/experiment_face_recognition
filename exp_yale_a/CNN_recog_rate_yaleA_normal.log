@@ -1,0 +1,32 @@
+face image trainning number2
+picture: 7 is person 2, but mis-predicted as person 12
+picture: 24 is person 8, but mis-predicted as person 0
+picture: 27 is person 9, but mis-predicted as person 7
+picture: 34 is person 11, but mis-predicted as person 8
+picture: 39 is person 13, but mis-predicted as person 6
+picture: 43 is person 14, but mis-predicted as person 7
+face number:  45
+correct rate 86.6666666667 % in CNNrecognizer
+face image trainning number3
+picture: 39 is person 13, but mis-predicted as person 6
+picture: 42 is person 14, but mis-predicted as person 6
+picture: 43 is person 14, but mis-predicted as person 7
+picture: 44 is person 14, but mis-predicted as person 7
+face number:  45
+correct rate 91.1111111111 % in CNNrecognizer
+face image trainning number4
+picture: 23 is person 7, but mis-predicted as person 8
+picture: 27 is person 9, but mis-predicted as person 7
+picture: 28 is person 9, but mis-predicted as person 3
+picture: 43 is person 14, but mis-predicted as person 7
+face number:  45
+correct rate 91.1111111111 % in CNNrecognizer
+face image trainning number5
+picture: 25 is person 8, but mis-predicted as person 7
+picture: 28 is person 9, but mis-predicted as person 3
+picture: 39 is person 13, but mis-predicted as person 6
+picture: 42 is person 14, but mis-predicted as person 2
+picture: 43 is person 14, but mis-predicted as person 7
+picture: 44 is person 14, but mis-predicted as person 7
+face number:  45
+correct rate 86.6666666667 % in CNNrecognizer

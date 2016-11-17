@@ -1,0 +1,112 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number1
+lbphrecognizer 0 Picture no.1 is Incorrect Recognized as 2
+fisherrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+fisherrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+eigenrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+lbphrecognizer 3 Picture no.9 is Incorrect Recognized as 1
+fisherrecognizer 5 Picture no.11 is Incorrect Recognized as 13
+eigenrecognizer 5 Picture no.11 is Incorrect Recognized as 13
+lbphrecognizer 5 Picture no.11 is Incorrect Recognized as 12
+fisherrecognizer 6 Picture no.12 is Incorrect Recognized as 7
+eigenrecognizer 6 Picture no.12 is Incorrect Recognized as 7
+lbphrecognizer 6 Picture no.12 is Incorrect Recognized as 8
+fisherrecognizer 14 Picture no.15 is Incorrect Recognized as 7
+eigenrecognizer 14 Picture no.15 is Incorrect Recognized as 7
+lbphrecognizer 14 Picture no.15 is Incorrect Recognized as 8
+correct rate 66.6666666667 % in fisherrecognizer with 1 trainning face
+correct rate 53.3333333333 % in lbphrecognizer with 1 trainning face
+correct rate 66.6666666667 % in eigenrecognizer with 1 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number2
+fisherrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+fisherrecognizer 11 Picture no.4 is Incorrect Recognized as 4
+fisherrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+eigenrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+fisherrecognizer 8 Picture no.14 is Incorrect Recognized as 4
+correct rate 73.3333333333 % in fisherrecognizer with 2 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 2 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 2 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number3
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+fisherrecognizer 1 Picture no.7 is Incorrect Recognized as 9
+eigenrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 3
+correct rate 93.3333333333 % in fisherrecognizer with 3 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 3 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 3 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number4
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 12
+correct rate 100.0 % in fisherrecognizer with 4 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 4 trainning face
+correct rate 93.3333333333 % in eigenrecognizer with 4 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number5
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+fisherrecognizer 1 Picture no.7 is Incorrect Recognized as 13
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 12
+fisherrecognizer 8 Picture no.14 is Incorrect Recognized as 13
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 14
+correct rate 86.6666666667 % in fisherrecognizer with 5 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 5 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 5 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number6
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 12
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 7
+correct rate 100.0 % in fisherrecognizer with 6 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 6 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 6 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number7
+fisherrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+lbphrecognizer 1 Picture no.7 is Incorrect Recognized as 12
+fisherrecognizer 5 Picture no.11 is Incorrect Recognized as 6
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 7
+correct rate 86.6666666667 % in fisherrecognizer with 7 trainning face
+correct rate 86.6666666667 % in lbphrecognizer with 7 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 7 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number8
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+fisherrecognizer 11 Picture no.4 is Incorrect Recognized as 7
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 7
+correct rate 93.3333333333 % in fisherrecognizer with 8 trainning face
+correct rate 93.3333333333 % in lbphrecognizer with 8 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 8 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number9
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+fisherrecognizer 8 Picture no.14 is Incorrect Recognized as 14
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 7
+correct rate 93.3333333333 % in fisherrecognizer with 9 trainning face
+correct rate 93.3333333333 % in lbphrecognizer with 9 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 9 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number10
+fisherrecognizer 9 Picture no.2 is Incorrect Recognized as 4
+eigenrecognizer 9 Picture no.2 is Incorrect Recognized as 2
+lbphrecognizer 9 Picture no.2 is Incorrect Recognized as 12
+eigenrecognizer 8 Picture no.14 is Incorrect Recognized as 7
+fisherrecognizer 14 Picture no.15 is Incorrect Recognized as 6
+correct rate 86.6666666667 % in fisherrecognizer with 10 trainning face
+correct rate 93.3333333333 % in lbphrecognizer with 10 trainning face
+correct rate 86.6666666667 % in eigenrecognizer with 10 trainning face

@@ -1,0 +1,81 @@
+face image trainning number2
+picture: 12 is person 2, but mis-predicted as person 7
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 29 is person 9, but mis-predicted as person 7
+picture: 30 is person 9, but mis-predicted as person 7
+picture: 31 is person 9, but mis-predicted as person 7
+picture: 32 is person 9, but mis-predicted as person 7
+face number:  33
+correct rate 81.8181818182 % in CNNrecognizer
+face image trainning number3
+picture: 12 is person 2, but mis-predicted as person 7
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 29 is person 9, but mis-predicted as person 7
+picture: 30 is person 9, but mis-predicted as person 7
+picture: 31 is person 9, but mis-predicted as person 7
+picture: 32 is person 9, but mis-predicted as person 7
+face number:  33
+correct rate 81.8181818182 % in CNNrecognizer
+face image trainning number4
+picture: 12 is person 2, but mis-predicted as person 7
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 29 is person 9, but mis-predicted as person 7
+picture: 30 is person 9, but mis-predicted as person 7
+picture: 31 is person 9, but mis-predicted as person 7
+picture: 32 is person 9, but mis-predicted as person 7
+face number:  33
+correct rate 81.8181818182 % in CNNrecognizer
+face image trainning number5
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 21 is person 6, but mis-predicted as person 3
+face number:  33
+correct rate 93.9393939394 % in CNNrecognizer
+face image trainning number6
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 20 is person 5, but mis-predicted as person 6
+picture: 30 is person 9, but mis-predicted as person 7
+face number:  33
+correct rate 90.9090909091 % in CNNrecognizer
+face image trainning number7
+picture: 2 is person 0, but mis-predicted as person 6
+picture: 3 is person 0, but mis-predicted as person 3
+picture: 7 is person 1, but mis-predicted as person 6
+picture: 15 is person 4, but mis-predicted as person 6
+picture: 16 is person 4, but mis-predicted as person 3
+picture: 20 is person 5, but mis-predicted as person 6
+picture: 21 is person 6, but mis-predicted as person 3
+picture: 22 is person 6, but mis-predicted as person 3
+face number:  33
+correct rate 75.7575757576 % in CNNrecognizer
+face image trainning number8
+picture: 15 is person 4, but mis-predicted as person 0
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 20 is person 5, but mis-predicted as person 0
+face number:  33
+correct rate 90.9090909091 % in CNNrecognizer
+face image trainning number9
+picture: 15 is person 4, but mis-predicted as person 0
+picture: 16 is person 4, but mis-predicted as person 0
+picture: 20 is person 5, but mis-predicted as person 0
+face number:  33
+correct rate 90.9090909091 % in CNNrecognizer
+face image trainning number10
+picture: 20 is person 5, but mis-predicted as person 0
+face number:  33
+correct rate 96.9696969697 % in CNNrecognizer
+face image trainning number11
+picture: 2 is person 0, but mis-predicted as person 1
+picture: 20 is person 5, but mis-predicted as person 0
+face number:  33
+correct rate 93.9393939394 % in CNNrecognizer
+face image trainning number12
+picture: 2 is person 0, but mis-predicted as person 1
+picture: 20 is person 5, but mis-predicted as person 0
+face number:  33
+correct rate 93.9393939394 % in CNNrecognizer
+face image trainning number13
+picture: 2 is person 0, but mis-predicted as person 1
+picture: 20 is person 5, but mis-predicted as person 6
+picture: 21 is person 6, but mis-predicted as person 3
+face number:  33
+correct rate 90.9090909091 % in CNNrecognizer

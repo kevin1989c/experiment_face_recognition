@@ -1,0 +1,80 @@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number1
+correct rate 54.1176470588 % in fisherrecognizer with 1 trainning face
+correct rate 43.137254902 % in lbphrecognizer with 1 trainning face
+correct rate 54.5098039216 % in eigenrecognizer with 1 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number2
+correct rate 53.7254901961 % in fisherrecognizer with 2 trainning face
+correct rate 40.0 % in lbphrecognizer with 2 trainning face
+correct rate 52.9411764706 % in eigenrecognizer with 2 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number3
+correct rate 55.2941176471 % in fisherrecognizer with 3 trainning face
+correct rate 39.6078431373 % in lbphrecognizer with 3 trainning face
+correct rate 52.1568627451 % in eigenrecognizer with 3 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number4
+correct rate 58.0392156863 % in fisherrecognizer with 4 trainning face
+correct rate 40.0 % in lbphrecognizer with 4 trainning face
+correct rate 52.1568627451 % in eigenrecognizer with 4 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number5
+correct rate 59.2156862745 % in fisherrecognizer with 5 trainning face
+correct rate 41.568627451 % in lbphrecognizer with 5 trainning face
+correct rate 52.1568627451 % in eigenrecognizer with 5 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number6
+correct rate 61.1764705882 % in fisherrecognizer with 6 trainning face
+correct rate 41.568627451 % in lbphrecognizer with 6 trainning face
+correct rate 51.7647058824 % in eigenrecognizer with 6 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number7
+correct rate 54.1176470588 % in fisherrecognizer with 7 trainning face
+correct rate 41.568627451 % in lbphrecognizer with 7 trainning face
+correct rate 51.7647058824 % in eigenrecognizer with 7 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number8
+correct rate 57.2549019608 % in fisherrecognizer with 8 trainning face
+correct rate 41.9607843137 % in lbphrecognizer with 8 trainning face
+correct rate 51.7647058824 % in eigenrecognizer with 8 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number9
+correct rate 59.6078431373 % in fisherrecognizer with 9 trainning face
+correct rate 41.9607843137 % in lbphrecognizer with 9 trainning face
+correct rate 51.3725490196 % in eigenrecognizer with 9 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number10
+correct rate 59.6078431373 % in fisherrecognizer with 10 trainning face
+correct rate 42.7450980392 % in lbphrecognizer with 10 trainning face
+correct rate 50.5882352941 % in eigenrecognizer with 10 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number11
+correct rate 48.6274509804 % in fisherrecognizer with 11 trainning face
+correct rate 43.5294117647 % in lbphrecognizer with 11 trainning face
+correct rate 47.8431372549 % in eigenrecognizer with 11 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number12
+correct rate 52.1568627451 % in fisherrecognizer with 12 trainning face
+correct rate 43.137254902 % in lbphrecognizer with 12 trainning face
+correct rate 47.8431372549 % in eigenrecognizer with 12 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number13
+correct rate 47.4509803922 % in fisherrecognizer with 13 trainning face
+correct rate 42.3529411765 % in lbphrecognizer with 13 trainning face
+correct rate 47.4509803922 % in eigenrecognizer with 13 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number14
+correct rate 44.3137254902 % in fisherrecognizer with 14 trainning face
+correct rate 42.3529411765 % in lbphrecognizer with 14 trainning face
+correct rate 47.4509803922 % in eigenrecognizer with 14 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number15
+correct rate 49.0196078431 % in fisherrecognizer with 15 trainning face
+correct rate 42.3529411765 % in lbphrecognizer with 15 trainning face
+correct rate 47.4509803922 % in eigenrecognizer with 15 trainning face
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+face image trainning number16
+correct rate 44.3137254902 % in fisherrecognizer with 16 trainning face
+correct rate 43.137254902 % in lbphrecognizer with 16 trainning face
+correct rate 48.6274509804 % in eigenrecognizer with 16 trainning face
